@@ -1,4 +1,21 @@
+/* Global */ 
+@import url('https://fonts.googleapis.com/css?family=Handlee');
+@import url('https://fonts.googleapis.com/css?family=Assistant:200');
+
 body {
-    background: red; 
+    background: wheat; 
+    font-family: 'Handlee', cursive;
 }
 
+/* Typography */ 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Assistant', sans-serif;
+} 
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font: 2em; 
+}
