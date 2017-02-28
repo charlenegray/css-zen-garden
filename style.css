@@ -1,6 +1,5 @@
 /* Global */ 
-@import url('https://fonts.googleapis.com/css?family=Handlee');
-@import url('https://fonts.googleapis.com/css?family=Assistant:200');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Open+Sans|Open+Sans+Condensed:300');
 
 body {
     background: wheat; 
@@ -10,7 +9,9 @@ body {
 
 /* Typography */ 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Assistant', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Josefin Slab', serif;
 } 
 
 h1 {
