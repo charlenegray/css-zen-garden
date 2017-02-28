@@ -1,9 +1,9 @@
 /* Global */ 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Open+Sans|Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Josefin+Slab|Open+Sans|Open+Sans+Condensed:300');
 
 body {
     background: wheat; 
-    font-family: 'Handlee', cursive;
+    font-family: 'Josefin Sans', sans-serif;
     margin: 0; 
 }
 
@@ -11,16 +11,16 @@ body {
 h1, h2, h3, h4, h5, h6 {
 font-family: 'Open Sans Condensed', sans-serif;
 font-family: 'Open Sans', sans-serif;
-font-family: 'Josefin Slab', serif;
 } 
 
 h1 {
-    font-size: 4em;
+    font-size: 1em;
 }
 
 h2 {
-    font: 2em; 
+    font: 7em; 
 }
+
 
 /* Positioning */ 
 header {
