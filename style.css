@@ -17,15 +17,20 @@ h1 {
     font-size: 1em;
 }
 
+
+
 h2 {
-    font: 7em; 
+    font: 9em; 
+}
+
+h3 {
+ color: #746834;
 }
 
 
 /* Positioning */ 
 header {
     background: rgba(120, 149, 149, 0.74);
-    position: fixed;
     width: 100%;
 }
 
@@ -37,15 +42,22 @@ header {
 }
 
 #zen-intro {
-    background: #bba4c7;
+    background: #ffffff;
 }
 
 #zen-supporting {
-    background: #445566;
+    background: #d3d3d3;
 }
 
 .sidebar {
-    background: #afafaf;
+    background: #adadad;
+}
+
+/* Layout*/ 
+* {
+    box-sizing: border-box;
+}
+
 }
 
 /* Media Queries */  
